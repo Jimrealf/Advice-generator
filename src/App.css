@@ -27,9 +27,6 @@ main {
 }
 
 .container {
-  /* position: relative; */
-  /* max-width: 540px; */
-  /* height: 332px; */
   flex-shrink: 0;
   border-radius: 15px;
   background: var(--Dark-Grayish-Blue, #313a48);
@@ -71,7 +68,4 @@ main {
   display: flex;
   margin: 0 auto;
   transform: translateY(50%);
-  /* position: absolute;
-  left: 50%;
-  transform: translateX(-50%) translateY(50%); */
 }
